@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[0.6226999759674072,41.61090087890625]},"properties":{"identificador":321030,"orden":1}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0.6217210292816162,41.61029815673828]},"properties":{"identificador":158990,"orden":2}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0.6179530024528503,41.608699798583984]},"properties":{"identificador":220319,"orden":3}},{"type":"Feature","geometry":{"type":"Point","coordinates":[0.6159449815750122,41.610198974609375]},"properties":{"identificador":320160,"orden":4}},{"type"{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "identificador": 20206, "orden": 1, "nombre": "Onze de Setembre", "lat": 41.624741693215761, "lon": 0.61355018575147346 }, "geometry": { "type": "Point", "coordinates": [ 0.613550185751473, 41.624741693215761 ] } },
+{ "type": "Feature", "properties": { "identificador": 20133, "orden": 2, "nombre": "Ricard Viñes/balmes", "lat": 41.61879358359193, "lon": 0.61934252734522488 }, "geometry": { "type": "Point", "coordinates": [ 0.619342527345225, 41.61879358359193 ] } },
+{ "type": "Feature", "properties": { "identificador": 20196, "orden": 3, "nombre": "Universitat 2", "lat": 41.613256160575247, "lon": 0.61960792709495971 }, "geometry": { "type": "Point", "coordinates": [ 0.61960792709496, 41.613256160575247 ] } },
+{ "type": "Feature", "properties": { "identificador": 20262, "orden": 4, "nombre": "Pont Universitat 2", "lat": 41.609161348723703, "lon": 0.62438781900390572 }, "geometry": { "type": "Point", "coordinates": [ 0.624387819003906, 41.609161348723703 ] } },
+{ "type": "Feature", "properties": { "identificador": 20265, "orden": 5, "nombre": "Museu de L`Aigua 2", "lat": 41.603921016528673, "lon": 0.63666389158770309 }, "geometry": { "type": "Point", "coordinates": [ 0.636663891587703, 41.603921016528673 ] } }
+]
+}
