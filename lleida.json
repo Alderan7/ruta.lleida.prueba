@@ -1,37 +1,146 @@
 {
 	"type": "FeatureCollection",
+	"name": "linea6",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
 	"features": [
 		{
 			"type": "Feature",
 			"properties": {
-				"identificador": 20206,
+				"identificador": 20256,
 				"orden": 1,
-				"nombre": "Onze de Setembre",
-				"lat": 41.62474169321576,
-				"lon": 0.6135501857514735
+				"nombre": "TANATORI",
+				"lat": 41.63166618573152,
+				"lon": 0.6102842145858386
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					0.613550185751473,
-					41.62474169321576
+					0.610284214585839,
+					41.63166618573152
 				]
 			}
 		},
 		{
 			"type": "Feature",
 			"properties": {
-				"identificador": 20133,
+				"identificador": 20351,
 				"orden": 2,
-				"nombre": "Ricard Viñes/balmes",
-				"lat": 41.61879358359193,
-				"lon": 0.6193425273452249
+				"nombre": "VILA MONTCADA",
+				"lat": 41.63166618573152,
+				"lon": 0.6102842145858386
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					0.619342527345225,
-					41.61879358359193
+					0.610284214585839,
+					41.63166618573152
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20139,
+				"orden": 3,
+				"nombre": "ARNAU DE VILANOVA",
+				"lat": 41.62605969934339,
+				"lon": 0.610756500346918
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.610756500346918,
+					41.62605969934339
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20140,
+				"orden": 4,
+				"nombre": "ONZE DE SETEMBRE",
+				"lat": 41.624638852104698,
+				"lon": 0.6136176810985226
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.613617681098523,
+					41.624638852104698
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20141,
+				"orden": 5,
+				"nombre": "HOSPITAL SANTA MARIA",
+				"lat": 41.62278026229022,
+				"lon": 0.616178705525778
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.616178705525778,
+					41.62278026229022
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20359,
+				"orden": 6,
+				"nombre": "ENRIC GRANADOS/ROVIRA ROURE",
+				"lat": 41.6213750804663,
+				"lon": 0.6179889009164695
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.61798890091647,
+					41.6213750804663
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20194,
+				"orden": 7,
+				"nombre": "RICARD VIÑES/BALMES",
+				"lat": 41.6187674930537,
+				"lon": 0.6193397506115445
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.619339750611544,
+					41.6187674930537
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20195,
+				"orden": 8,
+				"nombre": "HISENDA 2",
+				"lat": 41.61678904918398,
+				"lon": 0.620332908899928
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.620332908899928,
+					41.61678904918398
 				]
 			}
 		},
@@ -39,16 +148,33 @@
 			"type": "Feature",
 			"properties": {
 				"identificador": 20196,
-				"orden": 3,
-				"nombre": "Universitat 2",
-				"lat": 41.61325616057525,
-				"lon": 0.6196079270949597
+				"orden": 9,
+				"nombre": "UNIVERSITAT 2",
+				"lat": 41.61312687981738,
+				"lon": 0.6195872911911967
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					0.61960792709496,
-					41.61325616057525
+					0.619587291191197,
+					41.61312687981738
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20197,
+				"orden": 10,
+				"nombre": "ESTACIO D`AUTOBUSOS/CATALUNYA",
+				"lat": 41.610737256091699,
+				"lon": 0.6217043547799533
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.621704354779953,
+					41.610737256091699
 				]
 			}
 		},
@@ -56,16 +182,67 @@
 			"type": "Feature",
 			"properties": {
 				"identificador": 20262,
-				"orden": 4,
-				"nombre": "Pont Universitat 2",
-				"lat": 41.6091613487237,
-				"lon": 0.6243878190039057
+				"orden": 11,
+				"nombre": "PONT UNIVERSITAT 2 2 ",
+				"lat": 41.60916937596233,
+				"lon": 0.6244000913650156
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					0.624387819003906,
-					41.6091613487237
+					0.624400091365016,
+					41.60916937596233
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20263,
+				"orden": 12,
+				"nombre": "ESTUDI GENERAL/JOAN FUSTER 2",
+				"lat": 41.60740250806503,
+				"lon": 0.6272748017200736
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.627274801720074,
+					41.60740250806503
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20264,
+				"orden": 13,
+				"nombre": "MIQUEL BATLLORI/LL11 2 ",
+				"lat": 41.60612005581256,
+				"lon": 0.6298914643096999
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.6298914643097,
+					41.60612005581256
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20264,
+				"orden": 14,
+				"nombre": "PARC JOAN ORO 2",
+				"lat": 41.604901545604388,
+				"lon": 0.633655452083419
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.633655452083419,
+					41.604901545604388
 				]
 			}
 		},
@@ -73,16 +250,407 @@
 			"type": "Feature",
 			"properties": {
 				"identificador": 20265,
-				"orden": 5,
-				"nombre": "Museu de L`Aigua 2",
-				"lat": 41.60392101652867,
-				"lon": 0.6366638915877031
+				"orden": 15,
+				"nombre": "MUSEU DE L`AIGUA 2 ",
+				"lat": 41.603901438579708,
+				"lon": 0.636659996386423
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					0.636663891587703,
-					41.60392101652867
+					0.636659996386423,
+					41.603901438579708
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20266,
+				"orden": 16,
+				"nombre": " MIQUEL BATLLORI/FONTANET 2",
+				"lat": 41.60289106757517,
+				"lon": 0.6397335273613134
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.639733527361313,
+					41.60289106757517
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20354,
+				"orden": 17,
+				"nombre": "MERCAT BORDETA/AV. ARTESA",
+				"lat": 41.60255799156407,
+				"lon": 0.6419187799462949
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.641918779946295,
+					41.60255799156407
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20350,
+				"orden": 18,
+				"nombre": "AV. ARTESA",
+				"lat": 41.60438879534017,
+				"lon": 0.6414057775041214
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.641405777504121,
+					41.60438879534017
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20078,
+				"orden": 19,
+				"nombre": "PALAUET/BOQUE 2",
+				"lat": 41.6070979070787,
+				"lon": 0.6446389353427094
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.644638935342709,
+					41.6070979070787
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20346,
+				"orden": 20,
+				"nombre": "IES MARIA RUBIESA/CENTRE",
+				"lat": 41.605543118433669,
+				"lon": 0.646989245681935
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.646989245681935,
+					41.605543118433669
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20347,
+				"orden": 21,
+				"nombre": "PLA D`URGELL",
+				"lat": 41.603046791267299,
+				"lon": 0.6460664859051963
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.646066485905196,
+					41.603046791267299
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20348,
+				"orden": 22,
+				"nombre": "EXTREMADURA",
+				"lat": 41.600207408673487,
+				"lon": 0.6436932925577376
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.643693292557738,
+					41.600207408673487
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20361,
+				"orden": 23,
+				"nombre": "MERCAT BORDETA/PL.SANT JORDI",
+				"lat": 41.60217928196503,
+				"lon": 0.6422929334929005
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.642292933492901,
+					41.60217928196503
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20252,
+				"orden": 24,
+				"nombre": "MIQUEL BATLLORI/FONTANET",
+				"lat": 41.602992857824968,
+				"lon": 0.6397901482984593
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.639790148298459,
+					41.602992857824968
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20253,
+				"orden": 25,
+				"nombre": "MUSEU DE L`AIGUA",
+				"lat": 41.60398538628428,
+				"lon": 0.6367221102703623
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.636722110270362,
+					41.60398538628428
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20353,
+				"orden": 26,
+				"nombre": "PARC JOAN ORO",
+				"lat": 41.6049791121845,
+				"lon": 0.6337222515967022
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.633722251596702,
+					41.6049791121845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20254,
+				"orden": 27,
+				"nombre": "MIQUEL BATLLORI/LL11",
+				"lat": 41.60620488157491,
+				"lon": 0.6299486547086315
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.629948654708631,
+					41.60620488157491
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20255,
+				"orden": 28,
+				"nombre": "ESTUDI GENERAL/JOAN FUSTER",
+				"lat": 41.60751542883579,
+				"lon": 0.6274361508169392
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.627436150816939,
+					41.60751542883579
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20145,
+				"orden": 29,
+				"nombre": "PONT UNIVERSITAT",
+				"lat": 41.609144942592937,
+				"lon": 0.6247308343579016
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.624730834357902,
+					41.609144942592937
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20132,
+				"orden": 30,
+				"nombre": "ESTACIÓ D'AUTOBUSOS/PL.ESPANYA",
+				"lat": 41.61073758537587,
+				"lon": 0.6222381424407889
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.622238142440789,
+					41.61073758537587
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20002,
+				"orden": 31,
+				"nombre": "CATALUNYA",
+				"lat": 41.61183699772478,
+				"lon": 0.6202683266746281
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.620268326674628,
+					41.61183699772478
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20003,
+				"orden": 32,
+				"nombre": "UNIVERSITAT",
+				"lat": 41.613296696358109,
+				"lon": 0.6198720237887868
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.619872023788787,
+					41.613296696358109
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20004,
+				"orden": 33,
+				"nombre": "HISENDA",
+				"lat": 41.61673397096298,
+				"lon": 0.6205942187752368
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.620594218775237,
+					41.61673397096298
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20133,
+				"orden": 34,
+				"nombre": "RICARD VIÑES/SANITAT",
+				"lat": 41.61948435124112,
+				"lon": 0.6191205165679949
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.619120516567995,
+					41.61948435124112
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20358,
+				"orden": 35,
+				"nombre": "PL.ENRIC GRANADOS/ROVIRA ROURE 2",
+				"lat": 41.62136592074072,
+				"lon": 0.6182544171781735
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.618254417178174,
+					41.62136592074072
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20135,
+				"orden": 36,
+				"nombre": "HOSPITAL SANTA MARIA 2",
+				"lat": 41.622968680177887,
+				"lon": 0.6162625256471795
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.61626252564718,
+					41.622968680177887
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20206,
+				"orden": 37,
+				"nombre": "ONZE DE SETEMBRE 2",
+				"lat": 41.62484259492127,
+				"lon": 0.6136797727722435
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.613679772772244,
+					41.62484259492127
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"identificador": 20138,
+				"orden": 38,
+				"nombre": "ARNAU DE VILANOVA 2",
+				"lat": 41.62612052561911,
+				"lon": 0.6108322463824166
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.610832246382417,
+					41.62612052561911
 				]
 			}
 		}
