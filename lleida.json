@@ -11,34 +11,17 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"identificador": 20256,
-				"orden": 1,
-				"nombre": "TANATORI",
-				"lat": 41.63166618573152,
-				"lon": 0.6102842145858386
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					0.610284214585839,
-					41.63166618573152
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"identificador": 20351,
 				"orden": 2,
 				"nombre": "VILA MONTCADA",
-				"lat": 41.63166618573152,
-				"lon": 0.6102842145858386
+				"lat": 41.6286084,
+				"lon": 0.6126496
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					0.610284214585839,
-					41.63166618573152
+					0.6126496,
+					41.6286084
 				]
 			}
 		},
